@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name:LAPTOP-6KDU6JAG
+  name:MyAgent
 
 steps:
 - task: Maven@3
